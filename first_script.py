@@ -10,5 +10,4 @@ browser.get('http://www.google.com')
 elem = browser.find_element(By.ID, "input")  # Find the search box
 elem.send_keys("seleniumhq")
 
-
 #browser.quit()
