@@ -19,4 +19,3 @@ wait.until(EC.element_to_be_clickable((By.NAME,"login-button"))).click()
 #time.sleep(10)
 assert "Swag La" in driver.title
 driver.close()
-
