@@ -7,7 +7,6 @@ import time
 
 driver = webdriver.Chrome()
 
-
 Expected_title = "GeeksforGeeks | A computer science portal for geek"
   
 # Navigate to the GeeksforGeeks website 
